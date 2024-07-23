@@ -14,7 +14,7 @@ Decent Music Player
 
 ### Support
 
-For any issues or inquiries, visit our [support](https://discord.gg/HsD2kJGefS) or contact us at support@example.com.
+For any issues or inquiries, visit our [support](https://discord.gg/HsD2kJGefS)
 
 ---
 
